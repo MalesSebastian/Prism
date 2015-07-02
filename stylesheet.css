@@ -1,0 +1,21 @@
+body {
+  background-image: url("wallpaper 2 final.png")
+}
+#login {
+     position: fixed;
+     top: 50%;
+     left: 50%;
+     height: 400px;
+     width: 360px;
+     margin-top: -200px;
+     margin-left: -180px;
+}
+.tg {
+     height: 100%;
+     width: 100%;
+}
+input {
+     height: 1.57%;
+     width: 268px;
+}
+
