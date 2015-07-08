@@ -1,5 +1,43 @@
 #Buton {
+     position: relative;
+     left: 79.6875%;
+     top: 140px;
+ }
+#firstsec {
+    background-color: #1b1c1e;
+    height: 270px;
+    width: 100%;
     position: relative;
-    left: 79.6875%;
-    top: 12.9%;
+    top: 300px;
+    border-radius: 25px;
+
+}
+#Trending {
+    color: white;
+    position: absolute;
+    top: 270px;
+    font-size: 30px;
+    margin: 0px;
+    border: none;
+    left: 20px;
+    font-family: Gadget;
+}
+#secondsec {
+    background-color: #1b1c1e;
+    height: 270px;
+    width: 100%;
+    position: relative;
+    top: 400px;
+    border-radius: 25px;
+}
+#New {
+    color: white;
+    position: absolute;
+    top: 645px;
+    font-size: 30px;
+    margin: 0px;
+    border: none;
+    left: 20px;
+    font-family: Gadget;
+
 }
