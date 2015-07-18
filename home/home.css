@@ -20,7 +20,7 @@
     margin: 0px;
     border: none;
     left: 20px;
-    font-family: Gadget;
+    font-family: Roboto-Black;
 }
 #secondsec {
     background-color: #1b1c1e;
@@ -38,6 +38,25 @@
     margin: 0px;
     border: none;
     left: 20px;
-    font-family: Gadget;
+    font-family: Roboto-Black;
 
 }
+#See-1 {
+    position: relative;
+    color:#6441a5;
+    width: 150px;
+    height: 30px;
+    float: right;
+    top: 250px;
+    font-size: 20px;
+}
+#See-2 {
+    position: relative;
+    color:#6441a5;
+    width: 150px;
+    height: 30px;
+    float: right;
+    top:345px;
+    font-size:20px;
+}
+
