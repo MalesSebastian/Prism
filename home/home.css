@@ -1,7 +1,7 @@
 #Buton {
      position: relative;
-     left: 79.6875%;
-     top: 140px;
+     left: 85.6875%;
+     top: 30px;
  }
 #firstsec {
     background-color: #1b1c1e;
@@ -10,7 +10,6 @@
     position: relative;
     top: 300px;
     border-radius: 25px;
-
 }
 #Trending {
     color: white;
@@ -39,12 +38,11 @@
     border: none;
     left: 20px;
     font-family: Roboto-Black;
-
 }
 #See-1 {
     position: relative;
     color:#6441a5;
-    width: 150px;
+    width: 190px;
     height: 30px;
     float: right;
     top: 250px;
@@ -53,10 +51,33 @@
 #See-2 {
     position: relative;
     color:#6441a5;
-    width: 150px;
+    width: 190px;
     height: 30px;
     float: right;
     top:345px;
     font-size:20px;
 }
+a, a:hover {
+    text-decoration: none;
+    color: #6441a5;
+}
+.More {
+    color:#6441a5 ;
+}
+.More:visited{
+    color: #6441a5;
+}
+#search-b {
+    float: left;
+    position: relative;
+    left: 1444px;
+}
+.bar {
+    position: relative;
+    height: 25px;
+    weight: 150px;
+    float: left;
+    left: 1445px;
+}
+
 

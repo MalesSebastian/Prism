@@ -22,4 +22,18 @@ input {
      height: 1.57%;
      width: 268px;
 }
+a, a:hover {
+     text-decoration: none;
+     color: white;
+}
+.Pw {
+     color: white;
+     font-size: 15px;
 
+}
+.Pw:visited {
+     color: white;
+}
+.form-input {
+     color: black;
+}
